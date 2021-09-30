@@ -4,4 +4,4 @@ Here's rep for my finished and mb ranked SBs
       https://github.com/Euryalle/Smooth-Seas-TB - https://osu.ppy.sh/beatmapsets/1474057#osu/3025277
       
       GALNERYUS - DESTINY (CursorDance[SotarksWallet])
-      https://osu.ppy.sh/beatmapsets/1541596#osu/3151263
+      https://github.com/Euryalle/Galneryus-CD - https://osu.ppy.sh/beatmapsets/1541596#osu/3151263
